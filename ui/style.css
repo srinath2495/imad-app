@@ -20,4 +20,6 @@ body {
 .img-medium {
     height: 100px;
 }
-
+img{
+    margin:auto;
+}
