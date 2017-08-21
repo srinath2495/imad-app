@@ -17,6 +17,9 @@ body {
     font-weight: bold;
 }
 
+.img-medium {
+    height: 100px;
+}
 img{
     margin:auto;
     }
