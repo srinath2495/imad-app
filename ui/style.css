@@ -2,7 +2,10 @@ body {
     font-family: sans-serif;
     background-color: lightgrey;
     margin-top: 75px;
-   
+    font:22.5px/1.5 Tangerine, serif;
+		padding: 2px;
+		margin:2; 
+	
 }
 
 .center {
