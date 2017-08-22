@@ -1,34 +1,4 @@
-body {
-    font-family: sans-serif;
-    background-color: lightgrey;
-    margin:auto;
-    font:22.5px/1.5 Tangerine, serif;
-	width:92%;
-	overflow:hidden;
-	
-}
-
-.center {
-    text-align: center;
-}
-
-.text-big {
-    font-size: 100%;
-}
-
-.bold {
-    font-weight: bold;
-}
-
-.img-medium {
-    height: 100px;
-}
-img{
-    
-    margin:auto;
-    float:left;
-    }
-first{
-     margin:auto;
+hi{
+    color:blue;
     
 }
