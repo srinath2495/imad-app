@@ -1,10 +1,10 @@
 body {
     font-family: sans-serif;
     background-color: lightgrey;
-    margin-top: 75px;
+    margin:auto;
     font:22.5px/1.5 Tangerine, serif;
-		padding: 2px;
-		margin:2; 
+	width:92%;
+	overflow:hidden;
 	
 }
 
