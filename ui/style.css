@@ -20,3 +20,13 @@ header ul{
 	        	margin:auto;
 	        	overflow:hidden;
 		}
+		header{
+            
+            	background-color:#4682B4;
+            	color:black;
+            	padding-top:10px;
+            	min-height:10px;
+            	border-bottom:black 1.5px solid;
+	
+	
+}
