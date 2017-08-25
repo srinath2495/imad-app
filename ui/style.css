@@ -14,3 +14,14 @@ header ul{
 			color:black;
 			
 		}
+		ader li{
+			
+			display:inline;
+			padding:0 20px 0 20px;
+			
+		}
+		
+		header nav{
+			margin-top:5px;
+			float:right;
+		}
