@@ -6,9 +6,9 @@ header ul{
 		        margin:0;
 		        padding:0;
 		}
-		ader li{
-			
-			    display:inline;
+		header li{
+			    float:left;
+			    
 		    	padding:0 20px 0 20px;
 				}
 		header nav{
